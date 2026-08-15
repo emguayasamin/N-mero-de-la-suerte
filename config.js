@@ -1,1 +1,0 @@
-window.SUPABASE_CONFIG={url:"https://umbsnalizrvdaxaisjij.supabase.co",publishableKey:"sb_publishable_Sc5laHLLdXVh8BOKoeuuxA_AxOL08Bm",functionUrl:"https://umbsnalizrvdaxaisjij.supabase.co/functions/v1/reserve-numbers"};
